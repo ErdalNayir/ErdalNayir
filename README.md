@@ -5,8 +5,13 @@
    <br>         
 
  ### :man_technologist: About Me :
-           
+   - :telescope: I love learning new technologies and I love test my new skills as well.
 
+   - :seedling: Learning Modile Application Developing with Flutter.
+
+   - :zap: In my free time, I read articles about web technologies and researching about design patterns and software architecture.
+
+           
 
 ## 📬 Bana Ulaşın
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://tr.linkedin.com/in/erdal-nayir-9754281b1/)
