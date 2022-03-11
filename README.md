@@ -71,11 +71,11 @@
             <table class="table table-striped table-bordered table-hover">
                 <tbody>
                     <tr>
-                        <td colspan="2" align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bahadraksakal&show_icons=true&cache_seconds=1800&locale=en&layout=compact" alt="bahadraksakal" /></td>
+                        <td colspan="2" align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ErdalNayir&show_icons=true&cache_seconds=1800&locale=en&layout=compact" alt="bahadraksakal" /></td>
                     </tr>
                     <tr>
-                        <td align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bahadraksakal&show_icons=true&theme=tokyonight" /></td>
-                        <td align="center"><img align="center"src="https://github-readme-streak-stats.herokuapp.com/?user=bahadraksakal&theme=tokyonight" /></td>              
+                        <td align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ErdalNayir&show_icons=true&theme=tokyonight" /></td>
+                        <td align="center"><img align="center"src="https://github-readme-streak-stats.herokuapp.com/?user=ErdalNayir&theme=tokyonight" /></td>              
                     </tr>                   
                 </tbody>
             </table>
