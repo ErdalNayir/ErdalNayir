@@ -1,6 +1,6 @@
 
 ⚡ Merhaba, ben [Erdal Nayir](https://tr.linkedin.com/in/erdal-nayir-9754281b1). Bursa Teknik 2.sınıf öğrencisiyim. Kendimi C# Back-end ve Flutter Andriod Developer olarak geliştiriyorum
-<p align="left"><img src="https://komarev.com/ghpvc/?username=ErdalNayir&label=Profile%20views&color=ff0f32&style=flat" alt="ErdalNayir" /><br>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=ErdalNayir&label=Profile%20views&color=ff0f32&style=flat" alt="ErdalNayir" /><br style="margin-bottom:10px;">
 ## :computer: Kullandığım Teknoloji Ve Diller
 <div>
             <table>
