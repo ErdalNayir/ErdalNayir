@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-!https://github-readme-streak-stats.herokuapp.com/?user={ErdalNayir}
+!https://github-readme-streak-stats.herokuapp.com/?user={https://github.com/ErdalNayir}
