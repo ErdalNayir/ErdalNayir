@@ -5,7 +5,7 @@
    <br>         
 
  ### :man_technologist: About Me :
-   - :telescope: I love learning new technologies and I love test my new skills as well.
+   - :telescope: I love learning new technologies and I love to test my new skills as well.
 
    - :seedling: Learning Mobile Application Developing with Flutter.
 
