@@ -11,7 +11,7 @@
 
    - :zap: In my free time, I read articles about web technologies and researching about design patterns and software architecture. writing some codes with python 
    
-   -📈 I have machine learning project at kaggle 
+   -  📈 I have machine learning project at kaggle 
 
            
 
