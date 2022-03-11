@@ -8,5 +8,6 @@
 - 📫 How to reach me: erdal.nayir@gmail.com
 
 <hr />
+<b>
 
 [![Erdal's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErdalNayir)](https://github.com/ErdalNayir/github-readme-stats)
