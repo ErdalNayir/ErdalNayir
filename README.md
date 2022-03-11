@@ -7,7 +7,7 @@
  ### :man_technologist: About Me :
    - :telescope: I love learning new technologies and I love test my new skills as well.
 
-   - :seedling: Learning Modile Application Developing with Flutter.
+   - :seedling: Learning Mobile Application Developing with Flutter.
 
    - :zap: In my free time, I read articles about web technologies and researching about design patterns and software architecture. writing some codes with python 
    
