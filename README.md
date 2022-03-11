@@ -9,12 +9,14 @@
 
    - :seedling: Learning Modile Application Developing with Flutter.
 
-   - :zap: In my free time, I read articles about web technologies and researching about design patterns and software architecture.
+   - :zap: In my free time, I read articles about web technologies and researching about design patterns and software architecture. writing some codes with python 
+   
+   -📈 I have machine learning project at kaggle 
 
            
 
 ## 📬 Bana Ulaşın
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://tr.linkedin.com/in/erdal-nayir-9754281b1/)
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://tr.linkedin.com/in/erdal-nayir-9754281b1/)
 [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:erdal.nayir2001@gmail.com)](mailto:erdal.nayir2001@gmail.com)
 [![Github Badge](https://img.shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ErdalNayir)      
 
