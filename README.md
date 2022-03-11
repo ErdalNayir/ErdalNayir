@@ -9,4 +9,4 @@
 
 
 
-!https://github-readme-streak-stats.herokuapp.com/?user={https://github.com/ErdalNayir}
+[![Erdal's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErdalNayir)](https://github.com/ErdalNayir/github-readme-stats)
