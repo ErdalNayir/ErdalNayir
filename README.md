@@ -10,4 +10,4 @@
 <hr />
 <p style="margin-bottom:200px"> </p>
 
-[![Erdal's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErdalNayir)](https://github.com/ErdalNayir/github-readme-stats)
+![Erdal's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErdalNayir&show_icons=true&theme=radical)
