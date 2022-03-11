@@ -4,6 +4,7 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=ErdalNayir&label=Profile%20views&color=ff0f32&style=flat" alt="ErdalNayir" /><br style="margin-bottom:10px;">
    <br>         
 
+ ### :man_technologist: About Me :
            
 
 
