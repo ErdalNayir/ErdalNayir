@@ -9,7 +9,7 @@
 
    - :seedling: Learning Mobile Application Developing with Flutter.
 
-   - :zap: In my free time, I read articles about back-end technologies and researching about design patterns and software architecture and mobile app development. writing some codes with python 
+   - :zap: In my free time, I read articles about back-end technologies and researching about design patterns and software architecture and also mobile app development. writing some codes with python 
    
    -  📈 I have machine learning project at [kaggle](https://www.kaggle.com/erdal002) 
 
