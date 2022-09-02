@@ -5,11 +5,11 @@
    <br>         
 
  ### :man_technologist: About Me :
-   - :telescope: I love learning new technologies and I love to test my new skills as well.
+   - :telescope: I love learning new technologies and I love to test my new skills as well. Interested in cloud computing.
 
-   - :seedling: Learning Mobile Application Developing with Flutter.
+   - :seedling: Learning Mobile Application Developing with Flutter, Front-End Developing with React.js and Back-End Developing with .Net Core.
 
-   - :zap: In my free time, I read articles about back-end technologies and researching about design patterns and software architecture and also mobile app development. writing some codes with python 
+   - :zap: In my free time, I read articles about back-end technologies and researching about design patterns and software architecture and also mobile app development. writing some codes with python.
    
    -  📈 I have machine learning project at [kaggle](https://www.kaggle.com/erdal002) 
 
