@@ -1,5 +1,5 @@
 
-⚡ Hello, I am [Erdal Nayir](https://tr.linkedin.com/in/erdal-nayir-9754281b1). I am 3nd Grade student at Bursa Technical University
+⚡ Hello, I am [Erdal Nayir](https://tr.linkedin.com/in/erdal-nayir-9754281b1). I am 3rd Grade student at Bursa Technical University
 <br>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=ErdalNayir&label=Profile%20views&color=ff0f32&style=flat" alt="ErdalNayir" /><br style="margin-bottom:10px;">
    <br>         
